@@ -15,3 +15,5 @@ export async function PUT() {
 export async function DELETE() {
   return NextResponse.json({ message: 'Hello - DELETE' });
 }
+
+// Path: app/api/myNewRoute/route.js
